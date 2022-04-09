@@ -13,7 +13,7 @@ the rules are:
 The screen file should be a text file representing the screen, with:
 @ - for the position of the pacman (1 and only)
 $ - for the initial position of the ghosts (allow any number between 0 to 4)
-# - for walls
+'#' - for walls
 % - for “empty” positions that should not have a breadcrumb
 & - for the position where the points and remaining lives information (“legend”) shall be presented
 
